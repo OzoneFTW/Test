@@ -1,12 +1,19 @@
 package Smth;
 
+import Graphics.Display;
+
 public class Main {
-	
+
 	public static void main(String[] args) {
 		
-		System.out.println("Hello world");
-		System.out.println("World is fine");
+		//Frame settings
+		Display.Display();
 		
+
+		
+
+		
+
 	}
 
 }
