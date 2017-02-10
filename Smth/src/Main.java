@@ -1,4 +1,3 @@
-package Smth;
 
 import Graphics.Display;
 
